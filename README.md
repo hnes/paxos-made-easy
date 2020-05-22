@@ -4,6 +4,10 @@
 
 Note: The English version of this article still needs to take some more time to come out. Please wait with patience. I'm very sorry about that for my spare time is so limited. But anyway, the English version will definitely come out in the future.
 
+Note: Please visit and watch the new repository in https://github.com/turingcell/paxos-made-easy for future updates of this project.
+
+Note: 请访问位于 https://github.com/turingcell/paxos-made-easy 的新仓库以及时地获取关于本项目的所有后续更新。
+
 ----
 
 ![TuringCell Logo](img/logo_small_icon.png)
